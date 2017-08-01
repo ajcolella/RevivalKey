@@ -1,0 +1,460 @@
+{
+    "total_count": 36,
+    "items": [
+              {
+              "id": 1,
+              "text": "Looks like meat's back on the menu, boys!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 2,
+              "text": "MAN FLESH?!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 3,
+              "text": "He took a little tumble off the cliff!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 4,
+              "text": "We ain't had 'nothing but maggoty bread for three stinking days!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 5,
+              "text": "Find the halflings! Arghh! Find the halflings!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 6,
+              "text": "The scum tried to knife me, kill him!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 7,
+              "text": "Yeaaah, what about them? They're fresh.",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 8,
+              "text": "They are not for eating!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 9,
+              "text": "Form ranks, you maggots!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 10,
+              "text": "I'm gonna bleed you like a stuck pig!",
+              "movie": "Lord of the Rings",
+              "character": "Orc",
+              "tags": "Orc Mischief"
+              },
+              {
+              "id": 11,
+              "text": "Boil 'em, mash'em, stick'em in a stew!",
+              "movie": "Lord of the Rings",
+              "character": "Samwise Gamgee",
+              "tags": "!!!"
+              },
+              {
+              "id": 12,
+              "text": "They're taking the hobbits to Isengard!",
+              "movie": "Lord of the Rings",
+              "character": "Legolas",
+              "tags": "!!!"
+              },
+              {
+              "id": 13,
+              "text": "Fly, you fools!",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "!!!"
+              },
+              {
+              "id": 14,
+              "text": "And Rohan will answer. Muster the Rohirrim. Assemble the army at Dunharrow. As many men as can be found. You have two days. On the third, we ride for Gondor... and war.",
+              "movie": "Lord of the Rings",
+              "character": "Theoden",
+              "tags": "!!!"
+              },
+              {
+              "id": 15,
+              "text": "Legolas! What do your elf eyes see?",
+              "movie": "Lord of the Rings",
+              "character": "Aragorn",
+              "tags": "!!!"
+              },
+              {
+              "id": 16,
+              "text": "Of course you are! And I'm coming with you!",
+              "movie": "Lord of the Rings",
+              "character": "",
+              "tags": "!!!"
+              },
+              {
+              "id": 17,
+              "text": "The horn of Gondor!",
+              "movie": "Lord of the Rings",
+              "character": "Legolas",
+              "tags": "!!!"
+              },
+              {
+              "id": 18,
+              "text": "Spears shall be shaken, shields shall be splintered! A sword day... a red day... ere the sun rises",
+              "movie": "Lord of the Rings",
+              "character": "Legolas",
+              "tags": "!!!"
+              },
+              {
+              "id": 19,
+              "text": "Now for wrath, now for ruin, and the red dawn. Forth Eorlingas!",
+              "movie": "Lord of the Rings",
+              "character": "Theoden",
+              "tags": "!!!"
+              },
+              {
+              "id": 20,
+              "text": "Nobody tosses a dwarf!",
+              "movie": "Lord of the Rings",
+              "character": "Gimli",
+              "tags": "!!!"
+              },
+              {
+              "id": 21,
+              "text": "Bring your pretty face to my axe!",
+              "movie": "Lord of the Rings",
+              "character": "Gimli",
+              "tags": "!!!"
+              },
+              {
+              "id": 22,
+              "text": "That is no orc horn!",
+              "movie": "Lord of the Rings",
+              "character": "Legolas",
+              "tags": "!!!"
+              },
+              {
+              "id": 23,
+              "text": "What about second breakfast?",
+              "movie": "Lord of the Rings",
+              "character": "Pippin",
+              "tags": "!!!"
+              },
+              {
+              "id": 24,
+              "text": "Do not take me for a conjurer of cheap tricks!",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "!!!"
+              },
+              {
+              "id": 25,
+              "text": "Give it to us RAW AND WRIGGLING",
+              "movie": "Lord of the Rings",
+              "character": "Gollum",
+              "tags": "!!!"
+              },
+              {
+              "id": 26,
+              "text": "SNEAKY LITTLE HOBBITSES",
+              "movie": "Lord of the Rings",
+              "character": "Gollum",
+              "tags": "!!!"
+              },
+              {
+              "id": 27,
+              "text": "There's some good in this world, Mr. Frodo, and it's worth fighting for.",
+              "movie": "Lord of the Rings",
+              "character": "Samwise Gamgee",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 28,
+              "text": "He that breaks a thing to find out what it is has left the path of wisdom",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 29,
+              "text": "Few now remember them, yet still some go wandering, sons of forgotten kings walking in loneliness, guarding from evil things folk that are heedless.",
+              "movie": "Lord of the Rings",
+              "character": "Tom Bombadil",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 30,
+              "text": "I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend.",
+              "movie": "Lord of the Rings",
+              "character": "Faramir",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 31,
+              "text": "Is there a captain here who still has the courage to do his lord's will?",
+              "movie": "Lord of the Rings",
+              "character": "Denethor",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 32,
+              "text": "A wizard is never late, nor is he early, he arrives precisely when he means to.",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 33,
+              "text": "All we have to decide is what to do with the time that is given us.",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 34,
+              "text": "I think a servant of the enemy would look fairer and feel fouler.",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 35,
+              "text": "Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 36,
+              "text": "Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement.",
+              "movie": "Lord of the Rings",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 37,
+              "text": "Mine are the biggest parasites, I've got huge parasites!",
+              "movie": "The Hobbit",
+              "character": "Kili",
+              "tags": "!!!"
+              },
+              {
+              "id": 38,
+              "text": "Fili, Kili... Oin, Gloin... Dwalin, Balin... Bifur, Bofur, Bombur... Dori, Nori, Ori...",
+              "movie": "The Hobbit",
+              "character": "Gandalf",
+              "tags": "!!!"
+              },
+              {
+              "id": 39,
+              "text": "He wields the Foe-Hammer! The Beater! Bright as daylight!",
+              "movie": "The Hobbit",
+              "character": "Gandalf",
+              "tags": "!!!"
+              },
+              {
+              "id": 40,
+              "text": "Oh no. No. There's nobody home! Go away, and bother somebody else!",
+              "movie": "The Hobbit",
+              "character": "Bilbo Baggins",
+              "tags": "!!!"
+              },
+              {
+              "id": 41,
+              "text": "Not actually sure it is a sword. More of a letter opener, really.",
+              "movie": "The Hobbit",
+              "character": "Balin",
+              "tags": "Funny"
+              },
+              {
+              "id": 42,
+              "text": "I'm not even going to tell you what they've done to the bathroom, they all but destroyed the plumbing.",
+              "movie": "The Hobbit",
+              "character": "Bilbo Baggins",
+              "tags": "Funny"
+              },
+              {
+              "id": 43,
+              "text": "I have to agree with Mr. Baggins, he is hardly burglar material.",
+              "movie": "The Hobbit",
+              "character": "Balin",
+              "tags": "Funny"
+              },
+              {
+              "id": 44,
+              "text": "Aye, the wild is no place for gentle folk who can neither fight nor fend for themselves.",
+              "movie": "The Hobbit",
+              "character": "Dwalin",
+              "tags": "Funny"
+              },
+              {
+              "id": 45,
+              "text": "Well I do have some skill at conkers, if you must know.",
+              "movie": "The Hobbit",
+              "character": "Bilbo Baggins",
+              "tags": "Funny"
+              },
+              {
+              "id": 46,
+              "text": "Out of the frying pan...and into the fire.",
+              "movie": "The Hobbit",
+              "character": "Thorin Oakenshield",
+              "tags": "Funny"
+              },
+              {
+              "id": 47,
+              "text": "I don't understand why it's not working! It's not as if it's witchcraft! Witchcraft... Oh, but it IS...",
+              "movie": "The Hobbit",
+              "character": "Radagast",
+              "tags": "Funny"
+              },
+              {
+              "id": 48,
+              "text": "Bones will be shattered, necks will be wrung! You'll be beaten and battered, from racks you'll be hung! You will die down here and never be found, down in the deep of Goblin Town!",
+              "movie": "The Hobbit",
+              "character": "Great Goblin",
+              "tags": "Funny"
+              },
+              {
+              "id": 49,
+              "text": "When did doilies and your mother's dishes become so important to you?",
+              "movie": "The Hobbit",
+              "character": "Gandalf",
+              "tags": "Funny"
+              },
+              {
+              "id": 50,
+              "text": "That thing is not from the world of the living...",
+              "movie": "The Hobbit",
+              "character": "Radagast",
+              "tags": "!!!"
+              },
+              {
+              "id": 51,
+              "text": "By my beard, you're shorter and wider than last time we met.",
+              "movie": "The Hobbit",
+              "character": "Dwalin",
+              "tags": "Funny"
+              },
+              {
+              "id": 52,
+              "text": "Blunt the knives and bend the forks! Smash the bottles and burn the corks!",
+              "movie": "The Hobbit",
+              "character": "Thorin Oakenshield",
+              "tags": "Funny"
+              },
+              {
+              "id": 53,
+              "text": "Oh, but I'm forgetting, you don't have a mountain, and you're not a king, which makes you nobody, really.",
+              "movie": "The Hobbit",
+              "character": "Great Goblin",
+              "tags": "Funny"
+              },
+              {
+              "id": 54,
+              "text": "A dark power has found its way back into the world.",
+              "movie": "The Hobbit",
+              "character": "Radagast",
+              "tags": "!!!"
+              },
+              {
+              "id": 55,
+              "text": "So this is the Hobbit.",
+              "movie": "The Hobbit",
+              "character": "Thorin Oakenshield",
+              "tags": "!!!"
+              },
+              {
+              "id": 56,
+              "text": "Baggines? What is Bagginses?... Precious.",
+              "movie": "The Hobbit",
+              "character": "Gollum",
+              "tags": "Funny"
+              },
+              {
+              "id": 57,
+              "text": "Or do we seize this chance to take back Erebor?",
+              "movie": "The Hobbit",
+              "character": "Thorin Oakenshield",
+              "tags": "Funny"
+              },
+              {
+              "id": 58,
+              "text": "You can't reason with them, they're half-wits!",
+              "movie": "The Hobbit",
+              "character": "Dori",
+              "tags": "Funny"
+              },
+              {
+              "id": 59,
+              "text": "I've got parasites the size of me arm!",
+              "movie": "The Hobbit",
+              "character": "Oin",
+              "tags": "Funny"
+              },
+              {
+              "id": 60,
+              "text": "I'm looking for someone to share in an adventure.",
+              "movie": "The Hobbit",
+              "character": "Gandalf",
+              "tags": "!!!"
+              },
+              {
+              "id": 61,
+              "text": "Where's the meat?",
+              "movie": "The Hobbit",
+              "character": "Dwalin",
+              "tags": "Funny"
+              },
+              {
+              "id": 62,
+              "text": "You can't reason with them, they're half-wits!",
+              "movie": "The Hobbit",
+              "character": "Dori",
+              "tags": "Funny"
+              },
+              {
+              "id": 63,
+              "text": "Far over the misty mountains cold / To dungeons deep and caverns old",
+              "movie": "The Hobbit",
+              "character": "Thorin Oakenshield",
+              "tags": "Funny"
+              },
+              {
+              "id": 64,
+              "text": "The world is not in your books and maps. It's out there.",
+              "movie": "The Hobbit",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              },
+              {
+              "id": 65,
+              "text": "I am Gandalf, and Gandalf means me.",
+              "movie": "The Hobbit",
+              "character": "Gandalf",
+              "tags": "Wisdom"
+              }
+              ]
+}
